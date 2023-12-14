@@ -1,3 +1,3 @@
-"# Создали repository" 
+# Создали repository
 
 Добавили текст
